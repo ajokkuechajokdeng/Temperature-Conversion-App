@@ -15,10 +15,10 @@ A simple yet elegant Flutter application to convert temperatures between Fahrenh
 
 ## Screenshots
 
-- Portrait Mode
+### Portrait Mode
 ![Portrait mode](https://github.com/user-attachments/assets/bcc07e97-8570-4e47-b8f8-4c1752588dc0)
 
-- Landscape Mode
+### Landscape Mode
 ![Landscape mode](https://github.com/user-attachments/assets/e85152f7-ff97-43f0-87e2-de11013cc0de)
 
 
