@@ -1,16 +1,56 @@
-# temp_conversion_app
+# Temperature-Conversion-App
+A simple yet elegant Flutter application to convert temperatures between Fahrenheit and Celsius. The app features a professional UI with gradient backgrounds, custom fonts, and responsive design that works well in both portrait and landscape modes.
 
-A new Flutter project.
+## Demo 
+
+- Link to the video recording: https://drive.google.com/file/d/1wwjpLpCIgVJEkD4gh05NEbHcYdPcbXoS/view?usp=sharing
+
+## Features
+
+- Convert temperatures between Fahrenheit (F) and Celsius (C)
+- Displays conversion history with the most recent result at the top
+- Responsive design for both portrait and landscape orientations
+- Gradient background and custom fonts for a professional look
+- Clear history functionality
+
+## Screenshots
+
+![Portrait mode](https://github.com/user-attachments/assets/bcc07e97-8570-4e47-b8f8-4c1752588dc0)
+![Landscape mode](https://github.com/user-attachments/assets/e85152f7-ff97-43f0-87e2-de11013cc0de)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
+- A code editor such as VSCode or Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+```
+ git clone: https://github.com/ajokkuechajokdeng/Temperature-Conversion-App.git
+```
+
+2. Navigate to the project directory:
+
+```
+ cd temperature_conversion_app
+```
+
+3. Install dependencies:
+
+```
+flutter pub get
+```
+
+4. Run the application:
+
+```
+flutter run
+```
+
+### Acknowledgements
+- Flutter team for the awesome framework
+
