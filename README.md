@@ -3,7 +3,7 @@ A simple yet elegant Flutter application to convert temperatures between Fahrenh
 
 ## Demo 
 
-- Link to the video recording:https://drive.google.com/file/d/1wwjpLpCIgVJEkD4gh05NEbHcYdPcbXoS/view?usp=sharing
+- Link to the video recording: https://drive.google.com/file/d/1wwjpLpCIgVJEkD4gh05NEbHcYdPcbXoS/view?usp=sharing
 
 ## Features
 
@@ -28,19 +28,15 @@ A simple yet elegant Flutter application to convert temperatures between Fahrenh
 ### Installation
 
 1. Clone the repository:
-
-- git clone https://github.com/ajokkuechajokdeng/Temperature-Conversion-App.git
+- git clone: https://github.com/ajokkuechajokdeng/Temperature-Conversion-App.git
 
 2. Navigate to the project directory:
-
 - cd temperature_conversion_app
 
 3. Install dependencies:
-
 - flutter pub get
 
 4. Run the application:
-
 - flutter run
 
 ### Acknowledgements
